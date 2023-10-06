@@ -75,4 +75,34 @@ public enum EnumJuegos {
     public void setCreacion(int creacion) {
         this.creacion = creacion;
     }
+
+    public void metergol() {
+    }
+
+    public void ganarpartido() {
+    }
+
+    public void tumbartorre() {
+    }
+
+    public void ganarpartida() {
+    }
+
+    public void nuevaGuitarra() {
+    }
+
+    public void pasaNivel() {
+    }
+
+    public void morir() {
+    }
+
+    public void vencerabowser() {
+    }
+
+    public void crearPersonaje() {
+    }
+
+    public void SubirNivel() {
+    }
 }
